@@ -91,19 +91,10 @@
             </a>
         </div>
         
-     <div class="col-12 col-md-4 p-3"></div>
-     <div class="col-12 col-md-4 p-3 card">
-         <h3><strong>Contact Us.</strong></h3>
-        <form action="https://airform.io/creativebydre@gmail.com" method="post">
-            Phone & Name
-            <input type="text" name="name" class="form-control" placeholder="Enter your name / phone number">
-            Input Message
-            <textarea name="message" placeholder="Enter your message"  class="form-control"></textarea><br/>
-            <div class="text-center">
-            <button class="btn btn-dark rounded-pill col-4 float-center">Send</button>
-          </form>
-          
-     </div>
+     <div class="col-12 col-md-12 p-3">
+	     Contact Us : <a href="https://wa.me/6285646104747" class="btn btn-success rounded-pill">Whatsapp</a> or <a href="mailto:axcora@gmail.com" class="btn btn-danger rounded-pill">Email</a>
+		</div>
+    
      </div>
     </div>
 
