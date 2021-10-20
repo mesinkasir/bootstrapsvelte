@@ -91,7 +91,7 @@
             </a>
         </div>
         
-     <div class="col-12 col-md-12 p-3">
+     <div class="col-12 col-md-12 p-3 text-center">
 	     Contact Us : <a href="https://wa.me/6285646104747" class="btn btn-success rounded-pill">Whatsapp</a> or <a href="mailto:axcora@gmail.com" class="btn btn-danger rounded-pill">Email</a>
 		</div>
     
