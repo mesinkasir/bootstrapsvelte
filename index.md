@@ -6,23 +6,23 @@ A new generation svelte with bootstrap
 
 Documentation : [https://www.hockeycomputindo.com/2021/10/svelte-bootstrap-free-download-source.html →](https://www.hockeycomputindo.com/2021/10/svelte-bootstrap-free-download-source.html)
 
-![free bootstrap svelte themes template download](home.png)
+![free bootstrap svelte themes template download](https://github.com/mesinkasir/bootstrapsvelte/raw/main/home.png)
 
 Home page display layout
 
-![free bootstrap svelte themes template download](mob.png)
+![free bootstrap svelte themes template download](https://github.com/mesinkasir/bootstrapsvelte/raw/main/mob.png)
 
 Mobile version layout
 
-![free bootstrap svelte themes template download](mobile.png)
+![free bootstrap svelte themes template download](https://github.com/mesinkasir/bootstrapsvelte/raw/main/mobile.png)
 
 navbar mobile layout menu
 
-![free bootstrap svelte themes template download](about.png)
+![free bootstrap svelte themes template download](https://github.com/mesinkasir/bootstrapsvelte/raw/main/about.png)
 
 example page
 
-![free bootstrap svelte themes template download](page.png)
+![free bootstrap svelte themes template download](https://github.com/mesinkasir/bootstrapsvelte/raw/main/page.png)
 
 example page
 
