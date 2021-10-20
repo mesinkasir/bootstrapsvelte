@@ -92,7 +92,8 @@
         </div>
         
      <div class="col-12 col-md-12 p-3 p-md-5 text-center bg-light">
-	     Contact Us : <a href="https://wa.me/6285646104747" class="btn btn-success rounded-pill">Whatsapp</a> or <a href="mailto:axcora@gmail.com" class="btn btn-danger rounded-pill">Email</a>
+	   <img class="img-fluid" alt="svelte bootstrap" src="https://1.bp.blogspot.com/-ZgThCBBOIXk/X-GyC1_93iI/AAAAAAAAL-g/KklJKtvnXhECd6PZg9vKQeHAyW0uyvowgCPcBGAYYCw/s741/aplikasisekolaherpaxcoraschool.png"/>
+
 		</div>
     
      </div>
