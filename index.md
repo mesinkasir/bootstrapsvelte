@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# Bootstrap Svelte
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/bootstrapsvelte/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A new generation svelte with bootstrap
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Demo Bootstrap Svelte →](https://bootstrapsvelte.pages.dev/)
 
-### Markdown
+Documentation : [https://www.hockeycomputindo.com/2021/10/svelte-bootstrap-free-download-source.html →](https://www.hockeycomputindo.com/2021/10/svelte-bootstrap-free-download-source.html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![free bootstrap svelte themes template download](home.png)
 
-```markdown
-Syntax highlighted code block
+Home page display layout
 
-# Header 1
-## Header 2
-### Header 3
+![free bootstrap svelte themes template download](mob.png)
 
-- Bulleted
-- List
+Mobile version layout
 
-1. Numbered
-2. List
+![free bootstrap svelte themes template download](mobile.png)
 
-**Bold** and _Italic_ and `Code` text
+navbar mobile layout menu
 
-[Link](url) and ![Image](src)
-```
+![free bootstrap svelte themes template download](about.png)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+example page
 
-### Jekyll Themes
+![free bootstrap svelte themes template download](page.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/bootstrapsvelte/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+example page
 
-### Support or Contact
+-----------------------------------------------
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Buy me a coffee :hearts: ✌🏻
+
+:coffee: :coffee: :coffee: 
+
+with moneygram or western union
+
++ BANK CENTRAL ASIA
++ ACCOUNT NO : 0181884109
++ ACCOUNT NAME : SUCI CHANIFAH
++ IBAN/SWIFT CODE : CENAIDJA
+
+----------------------------------------------
+
+Documentation : [https://www.hockeycomputindo.com/2021/10/svelte-bootstrap-free-download-source.html →](https://www.hockeycomputindo.com/2021/10/svelte-bootstrap-free-download-source.html)
